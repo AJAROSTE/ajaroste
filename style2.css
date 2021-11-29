@@ -1,0 +1,29 @@
+.ody{
+    text-align: left;
+
+}
+.center{
+    font-size: 50px;
+    color: brown;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.boyut{
+  margin: 0px;  
+}
+.dev{
+    background-color: burlywood;
+    margin: 0px 290px 0px 290px;
+}
+
+
+span {
+    text-align: center;
+    font-size: 20px;
+    font-family:sans-serif;
+    
+}
+
+div {
+    text-align: justify;
+}
